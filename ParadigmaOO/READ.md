@@ -48,4 +48,4 @@ Por ejemplo, si queremos hacer un programa que muestre características de una p
 
 ## Encapsulamiento
 
-![Encapsulamiento](https://3.bp.blogspot.com/-ZnaeA0MP7wc/UFby5OpRjYI/AAAAAAAAAQQ/U5QunC_bdL4/s1600/Encapsulamiento3.jpg)
+![Encapsulamiento](https://3.bp.blogspot.com/-ZnaeA0MP7wc/UFby5OpRjYI/AAAAAAAAAQQ/U5QunC_bdL4/s1600/Encapsulamiento3.jpg "Encapsulamiento")
