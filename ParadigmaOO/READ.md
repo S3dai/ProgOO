@@ -61,3 +61,9 @@ La abstracción y la encapsulación no son lo mismo, pero si están relacionadas
 
 ![Abstraccion](https://th.bing.com/th/id/R.6560becf8c4ba7842db72f613a46365b?rik=swVeHVr8azkYeg&riu=http%3a%2f%2frootear.com%2ffiles%2f2014%2f10%2fclasesabstractasinterface.jpg&ehk=7LN9lNkFsivioAGK52jKryA3tkw1swn66wft8RB9Oc4%3d&risl=&pid=ImgRaw&r=0 "Abstraccion")
 
+## ***Herencia***
+La herencia en el sistema de programación orientada a objetos es una forma de organizar los objetos en una jerarquía, desde lo más general hasta lo más específico. Se trata del método utilizado para extender una clase en otra, manteniendo una ejecución similar.
+
+En la mayoría de los lenguajes orientados a objetos basados en clases, un objeto creado a través de la herencia, llamado objeto hijo, obtiene todas las propiedades y comportamientos del objeto paterno.
+
+![Herencia](https://www.lifeder.com/wp-content/uploads/2020/04/Herencia-en-programaci%C3%B3n-Pluke-CC0-Creative-Commons-CC0-1.0-Universal-Public-Domain.jpg "Herencia")
