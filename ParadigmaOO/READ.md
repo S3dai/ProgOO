@@ -120,3 +120,6 @@ Aqui presentamos una comparacion entre estas
 |GitMInd|Online Mind Map Tool|Navegador|??|Si|??|Principiantes, bocetos|Gratuita o premium|
 |Gliffy|Software de gráficos basado en web|Navegador, plugin para Confluence o Jira|JavaScript, HTML5, VDX, gXML|Si|UML 2.5|Principiantes, bocetos|Gratuita o premium|
 |MagicDraw|Software propietario con licencia|Escritorio, multiplataforma|Java, C++, C#, CIL, XML, CORBA, WSDL, EJB, DDL, IDL|Si, Servidor de equipos en la versión Enterprise|UML 2.5|Grandes empresas, tareas complejas|Pago único relativamente alto|
+|Lucidchart|Software de gráficos basado en web|Navegador|JavaScript, HTML5, SQL|Si|??|	Bocetos, grandes proyectos, trabajo en equipo|Suscripción gratuita y Premium asequible|
+|IBM Rational Rhapsody|Entorno de desarrollo gráfico para el desarrollo y validación de software basado en modelos|Multiplataforma|Java EE, C++, C#, EJB, WSDL, XSD, CORBA IDL, SQL, .NET|Con plugin|??|Modular, IDE totalmente integrable|A consultar|
+|Microsoft Visio|Software propietario de gráficos vectoriales y gráficos|Windows, navegador, app para iPad, máquina virtual|C++, C#, VSDX, VSDM|Si|UML 2.0 y + 2.5|Visualización de grandes proyectos|Suscripción asequible o pago único relativamente alto|
