@@ -126,3 +126,9 @@ Aqui presentamos una comparacion entre estas
 
 ## ***Empresas y UML***
 Algunas empresas que utilizan estetipo de dragramas son, por ejemplo, Apple, Tesla, Amazon, entre otros, estas empresas utilizan estos diagramas debido a su expansion y gran tamaño
+
+## ***Propuesta***
+Maquina que pueda vender articulos de papeleria simples (Lapices, borradores, papel, plumones, etc...), para esto, el usuario tendra que seleccionar, ingresando numeros en un tablero, el objeto deseado e ingresar la cantidad monetaria que sera especifixada en una pantalla, despues de ingresar el pago, el articulo sera entregado al usuario.
+
+### *UML*
+
