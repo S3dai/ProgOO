@@ -131,4 +131,4 @@ Algunas empresas que utilizan estetipo de dragramas son, por ejemplo, Apple, Tes
 Maquina que pueda vender articulos de papeleria simples (Lapices, borradores, papel, plumones, etc...), para esto, el usuario tendra que seleccionar, ingresando numeros en un tablero, el objeto deseado e ingresar la cantidad monetaria que sera especifixada en una pantalla, despues de ingresar el pago, el articulo sera entregado al usuario.
 
 ### *UML*
-![ImageUML](https://github.com/S3dai/ProgOO/blob/ecafe84198412f8385195cc93cfa65aaeb71852b/img/UML.png"UML Maquina vendedora")
+[Imagen](https://github.com/S3dai/ProgOO/blob/ecafe84198412f8385195cc93cfa65aaeb71852b/img/UML.png "UML")
