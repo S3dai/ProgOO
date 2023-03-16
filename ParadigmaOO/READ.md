@@ -117,4 +117,5 @@ Aqui presentamos una comparacion entre estas
 
 |Herramienta|Tipo|Plataforma|Lenguaje|Trabajo en equipo|Versiones compatibles|Adecuado para...|Precio|
 |-----------|----|----------|--------|-----------------|---------------------|----------------|------|
-|GitMInd| | | | | | | |
+|GitMInd|Online Mind Map Tool|Navegador|??|Si|??|Principiantes, bocetos|Gratuita o premium|
+|-------|--------------------|---------|--|--|--|----------------------|------------------|
