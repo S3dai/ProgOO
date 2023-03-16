@@ -119,3 +119,4 @@ Aqui presentamos una comparacion entre estas
 |-----------|----|----------|--------|-----------------|---------------------|----------------|------|
 |GitMInd|Online Mind Map Tool|Navegador|??|Si|??|Principiantes, bocetos|Gratuita o premium|
 |Gliffy|Software de gráficos basado en web|Navegador, plugin para Confluence o Jira|JavaScript, HTML5, VDX, gXML|Si|UML 2.5|Principiantes, bocetos|Gratuita o premium|
+|MagicDraw|Software propietario con licencia|Escritorio, multiplataforma|Java, C++, C#, CIL, XML, CORBA, WSDL, EJB, DDL, IDL|Si, Servidor de equipos en la versión Enterprise|UML 2.5|Grandes empresas, tareas complejas|Pago único relativamente alto|
