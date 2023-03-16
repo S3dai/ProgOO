@@ -8,4 +8,4 @@
 ## Mario Garcia
 
 ### Actividaes
-[Paradigma y UMl](https://github.com/S3dai/ProgOO/tree/main/ParadigmaOO)
+[Paradigma y Diagrama UMl](https://github.com/S3dai/ProgOO/tree/main/ParadigmaOO)
