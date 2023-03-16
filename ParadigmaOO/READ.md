@@ -118,4 +118,4 @@ Aqui presentamos una comparacion entre estas
 |Herramienta|Tipo|Plataforma|Lenguaje|Trabajo en equipo|Versiones compatibles|Adecuado para...|Precio|
 |-----------|----|----------|--------|-----------------|---------------------|----------------|------|
 |GitMInd|Online Mind Map Tool|Navegador|??|Si|??|Principiantes, bocetos|Gratuita o premium|
-|-------|--------------------|---------|--|--|--|----------------------|------------------|
+|Gliffy|Software de gráficos basado en web|Navegador, plugin para Confluence o Jira|JavaScript, HTML5, VDX, gXML|Si|UML 2.5|Principiantes, bocetos|Gratuita o premium|
