@@ -4,7 +4,7 @@
 ## Departamento de Sistemas y Computacion
 ## Ingenieria en Sistemas Computacionales
 ## Segundo Semestre
-## Marcelino escalante Martin Omar - 22211606
+## Marcelino Escalante Martin Omar - 22211606
 ## Mario Garcia
 
 ### Actividaes
